@@ -103,7 +103,7 @@ if (window.location.href.startsWith("https://conjuguemos.com/")) {
             </style>
             <button id="skip" class="button">Finish Lesson</button>
             <button id="showAnswers" class="button">Show Answer</button>
-            <button id="skipQ" class="button">Skip Question</button>
+            <button id="skipQ" class="button">Skip Question(working)</button>
             <button id="chngData" class="button">Change Data</button>
             <div class="bottomTitle" id="versionText">v1</div>
         </div>
